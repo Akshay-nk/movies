@@ -1,0 +1,38 @@
+.main{
+    width: 100%;
+    
+}
+
+.container1 {
+    
+     justify-content: space-between;
+    
+
+    
+    
+}
+.container1 input{
+    margin:10px ;
+    width: 400px;
+    height:  48px;
+    
+    font-size: 20px;
+    border: 2px ridge black;
+    border-radius: 10px;
+}
+.container1 button{
+    margin:10px ;
+    width: 150px;
+    height:  38px;
+    background-color: rgb(20, 222, 20);
+    border: 2px ridge black;
+    border-radius: 20px;
+}
+
+.movies{
+    align-items: center;
+    
+}
+
+
+
